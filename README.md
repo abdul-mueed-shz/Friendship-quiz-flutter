@@ -1,3 +1,3 @@
 # quizapp
 
-A simple quiz project implemented in Flutter.
+A simple flutter quiz project.
